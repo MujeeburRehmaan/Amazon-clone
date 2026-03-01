@@ -64,14 +64,6 @@ No installation is required. Just a modern web browser.
    # Simply double-click index.html or open with Live Server in VS Code
    ```
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your project here)*
-
----
-
 ## 🎯 What I Learned
 
 - Building complex **multi-section layouts** using Flexbox and CSS Grid
@@ -97,17 +89,11 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 ---
 
-## 📄 License
-
-This project is for **educational purposes only**. All trademarks, logos, and brand names used are the property of their respective owners (Amazon).
-
----
-
 ## 👤 Author
 
 **Your Name**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/MujeebURrehmaan)  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ Mujeeb ur Rehman)
 
 ---
 
