@@ -92,8 +92,8 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 ## 👤 Author
 
 **Your Name**  
-- GitHub: [@your-username](https://github.com/MujeebURrehmaan)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ Mujeeb ur Rehman)
+- GitHub:(https://github.com/MujeebURrehmaan)  
+- LinkedIn:(https://linkedin.com/in/ Mujeeb ur Rehman)
 
 ---
 
