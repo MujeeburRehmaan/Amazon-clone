@@ -81,13 +81,7 @@ No installation is required. Just a modern web browser.
 - Add a **login/signup page**
 - Include a **product detail page**
 
----
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
----
 
 ## 👤 Author
 
